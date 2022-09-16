@@ -1,0 +1,4 @@
+[submodule "AED_P1"]
+	path = AED_P1
+	url = https://github.com/wau/AED_P1.git
+	branch = master
