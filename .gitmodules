@@ -6,3 +6,11 @@
 	path = AED_P2
 	url = https://github.com/wau/AED_P2.git
 	branch = master
+[submodule "AED_P3"]
+	path = AED_P3
+	url = https://github.com/wau/AED_P3.git
+	branch = master
+[submodule "AED_P4"]
+	path = AED_P4
+	url = https://github.com/wau/AED_P4.git
+	branch = master
